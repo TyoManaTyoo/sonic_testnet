@@ -1,9 +1,13 @@
 # sonic odyssey bot auto tx (Testnet)
 
-Donate and Support :  SOL = Ebo66e4CePXiGSeh5z21nnFtTHVMuSRwFm8WbjrCAJzM
+Donate and Support :  
+
+SOL = Ebo66e4CePXiGSeh5z21nnFtTHVMuSRwFm8WbjrCAJzM
 
 ETH = 0x29769f338e7ca735db23a7dc54f5eed7e1d2ba38
+
 DANA = 083815863454
+
 ## Register Account
 
 Sonic Odyssey Testnet (Solana L2 EVM)
