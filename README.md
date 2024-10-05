@@ -32,8 +32,8 @@ sudo apt-get update && sudo apt-get install nodejs -y
 
 ## Clone Repository
 ```
-git clone https://github.com/TyoManaTyoo/sonic_devnet
-cd sonic_devnet
+git clone https://github.com/TyoManaTyoo/sonic_testnet
+cd sonic_testnet
 ```
 ```
 npm install
@@ -52,6 +52,6 @@ npm start
 ```
 ## jika kamu gagal menjalankan via pc dengan npm start
 ```
-node ~/sonic_devnet/index.js
+node ~/sonic_testnet/index.js
 ```
 
